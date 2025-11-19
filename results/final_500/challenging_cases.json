@@ -1,0 +1,5176 @@
+[
+  {
+    "index": 0,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 11,
+    "basic": {
+      "n": 9,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 9,
+      "avg_set_size": 4.5,
+      "min_set_size": 0,
+      "max_set_size": 9,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.1937781053751357,
+      "purity": 0.11186112370874253,
+      "participation_ratio": 8.939656306365576,
+      "quantum_bound": 0.11756613756613746,
+      "max_eigenvalue": 0.11756613756613746,
+      "effective_dimension": 8.969035142756859
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.4729377586898837,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 5.75,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 45.43559577416268,
+      "spectral_gap": 34.87119154832537,
+      "largest_singular_value": 6.740593132222318,
+      "trace": 72.0,
+      "frobenius_norm": 8.48528137423857
+    }
+  },
+  {
+    "index": 12,
+    "basic": {
+      "n": 1,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 1,
+      "avg_set_size": 0.5,
+      "min_set_size": 0,
+      "max_set_size": 1,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9984014443252798e-15,
+      "purity": 0.999999999999996,
+      "participation_ratio": 1.000000000000004,
+      "quantum_bound": 0.999999999999998,
+      "max_eigenvalue": 0.999999999999998,
+      "effective_dimension": 1.000000000000002
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0,
+      "max_entanglement": 0,
+      "max_bond_dimension": 1,
+      "avg_bond_dimension": 1,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 1.0,
+      "spectral_gap": 0,
+      "largest_singular_value": 1.0,
+      "trace": 1.0,
+      "frobenius_norm": 1.0
+    }
+  },
+  {
+    "index": 14,
+    "basic": {
+      "n": 10,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 10,
+      "avg_set_size": 5.0,
+      "min_set_size": 0,
+      "max_set_size": 10,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3025850929940446,
+      "purity": 0.09999999999999978,
+      "participation_ratio": 10.000000000000021,
+      "quantum_bound": 0.0999999999999999,
+      "max_eigenvalue": 0.0999999999999999,
+      "effective_dimension": 9.99999999999999
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.9254088348887366,
+      "max_entanglement": 3.4657359027997248,
+      "max_bond_dimension": 32,
+      "avg_bond_dimension": 10.222222222222221,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 96.00000000000001,
+      "spectral_gap": 80.0,
+      "largest_singular_value": 9.797958971132713,
+      "trace": 160.0,
+      "frobenius_norm": 12.649110640673518
+    }
+  },
+  {
+    "index": 19,
+    "basic": {
+      "n": 1,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 1,
+      "avg_set_size": 0.5,
+      "min_set_size": 0,
+      "max_set_size": 1,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9984014443252798e-15,
+      "purity": 0.999999999999996,
+      "participation_ratio": 1.000000000000004,
+      "quantum_bound": 0.999999999999998,
+      "max_eigenvalue": 0.999999999999998,
+      "effective_dimension": 1.000000000000002
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0,
+      "max_entanglement": 0,
+      "max_bond_dimension": 1,
+      "avg_bond_dimension": 1,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 1.0,
+      "spectral_gap": 0,
+      "largest_singular_value": 1.0,
+      "trace": 1.0,
+      "frobenius_norm": 1.0
+    }
+  },
+  {
+    "index": 30,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 36,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 42,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 45,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 47,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 48,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 56,
+    "basic": {
+      "n": 4,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999944,
+      "participation_ratio": 4.000000000000009,
+      "quantum_bound": 0.24999999999999972,
+      "max_eigenvalue": 0.24999999999999972,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.3862943611198906,
+      "max_entanglement": 2.0794415416798357,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.666666666666667,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 20.0,
+      "spectral_gap": 16.0,
+      "largest_singular_value": 4.47213595499958,
+      "trace": 32.0,
+      "frobenius_norm": 5.656854249492381
+    }
+  },
+  {
+    "index": 65,
+    "basic": {
+      "n": 7,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9413158628794869,
+      "purity": 0.14417989417989382,
+      "participation_ratio": 6.9357798165137785,
+      "quantum_bound": 0.15873015873015853,
+      "max_eigenvalue": 0.15873015873015853,
+      "effective_dimension": 6.967913759892143
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 1.0397207708399179,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 3.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 10.605551275463991,
+      "spectral_gap": 7.211102550927983,
+      "largest_singular_value": 3.25661653798294,
+      "trace": 14.0,
+      "frobenius_norm": 3.7416573867739413
+    }
+  },
+  {
+    "index": 78,
+    "basic": {
+      "n": 9,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 9,
+      "avg_set_size": 4.5,
+      "min_set_size": 0,
+      "max_set_size": 9,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.1937781053751357,
+      "purity": 0.11186112370874253,
+      "participation_ratio": 8.939656306365576,
+      "quantum_bound": 0.11756613756613746,
+      "max_eigenvalue": 0.11756613756613746,
+      "effective_dimension": 8.969035142756859
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.4729377586898837,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 5.75,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 45.43559577416268,
+      "spectral_gap": 34.87119154832537,
+      "largest_singular_value": 6.740593132222318,
+      "trace": 72.0,
+      "frobenius_norm": 8.48528137423857
+    }
+  },
+  {
+    "index": 79,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 83,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 88,
+    "basic": {
+      "n": 1,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 1,
+      "avg_set_size": 0.5,
+      "min_set_size": 0,
+      "max_set_size": 1,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9984014443252798e-15,
+      "purity": 0.999999999999996,
+      "participation_ratio": 1.000000000000004,
+      "quantum_bound": 0.999999999999998,
+      "max_eigenvalue": 0.999999999999998,
+      "effective_dimension": 1.000000000000002
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0,
+      "max_entanglement": 0,
+      "max_bond_dimension": 1,
+      "avg_bond_dimension": 1,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 1.0,
+      "spectral_gap": 0,
+      "largest_singular_value": 1.0,
+      "trace": 1.0,
+      "frobenius_norm": 1.0
+    }
+  },
+  {
+    "index": 95,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 108,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 110,
+    "basic": {
+      "n": 4,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999944,
+      "participation_ratio": 4.000000000000009,
+      "quantum_bound": 0.24999999999999972,
+      "max_eigenvalue": 0.24999999999999972,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.3862943611198906,
+      "max_entanglement": 2.0794415416798357,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.666666666666667,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 20.0,
+      "spectral_gap": 16.0,
+      "largest_singular_value": 4.47213595499958,
+      "trace": 32.0,
+      "frobenius_norm": 5.656854249492381
+    }
+  },
+  {
+    "index": 116,
+    "basic": {
+      "n": 5,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6003185475314503,
+      "purity": 0.20370370370370322,
+      "participation_ratio": 4.909090909090921,
+      "quantum_bound": 0.23333333333333303,
+      "max_eigenvalue": 0.23333333333333303,
+      "effective_dimension": 4.95461045197215
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.8664339756999316,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 7.645751311064591,
+      "spectral_gap": 5.291502622129181,
+      "largest_singular_value": 2.7650951721531376,
+      "trace": 10.0,
+      "frobenius_norm": 3.1622776601683795
+    }
+  },
+  {
+    "index": 130,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 133,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 141,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 143,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 148,
+    "basic": {
+      "n": 2,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.693147180559946,
+      "purity": 0.499999999999998,
+      "participation_ratio": 2.000000000000008,
+      "quantum_bound": 0.499999999999999,
+      "max_eigenvalue": 0.499999999999999,
+      "effective_dimension": 2.0000000000000013
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0.6931471805599458,
+      "max_entanglement": 0.6931471805599458,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 2.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.4142135623730951,
+      "trace": 2.0,
+      "frobenius_norm": 1.4142135623730951
+    }
+  },
+  {
+    "index": 164,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 166,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 170,
+    "basic": {
+      "n": 9,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 9,
+      "avg_set_size": 4.5,
+      "min_set_size": 0,
+      "max_set_size": 9,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.1937781053751357,
+      "purity": 0.11186112370874253,
+      "participation_ratio": 8.939656306365576,
+      "quantum_bound": 0.11756613756613746,
+      "max_eigenvalue": 0.11756613756613746,
+      "effective_dimension": 8.969035142756859
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.4729377586898837,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 5.75,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 45.43559577416268,
+      "spectral_gap": 34.87119154832537,
+      "largest_singular_value": 6.740593132222318,
+      "trace": 72.0,
+      "frobenius_norm": 8.48528137423857
+    }
+  },
+  {
+    "index": 183,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 185,
+    "basic": {
+      "n": 10,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 10,
+      "avg_set_size": 5.0,
+      "min_set_size": 0,
+      "max_set_size": 10,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3025850929940446,
+      "purity": 0.09999999999999978,
+      "participation_ratio": 10.000000000000021,
+      "quantum_bound": 0.0999999999999999,
+      "max_eigenvalue": 0.0999999999999999,
+      "effective_dimension": 9.99999999999999
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.9254088348887366,
+      "max_entanglement": 3.4657359027997248,
+      "max_bond_dimension": 32,
+      "avg_bond_dimension": 10.222222222222221,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 96.00000000000001,
+      "spectral_gap": 80.0,
+      "largest_singular_value": 9.797958971132713,
+      "trace": 160.0,
+      "frobenius_norm": 12.649110640673518
+    }
+  },
+  {
+    "index": 187,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 190,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 207,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 213,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 223,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 230,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 231,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 232,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 242,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999933,
+      "participation_ratio": 4.000000000000011,
+      "quantum_bound": 0.24999999999999967,
+      "max_eigenvalue": 0.24999999999999967,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.9241962407465937,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 5.999999999999998,
+      "spectral_gap": 3.999999999999998,
+      "largest_singular_value": 2.449489742783178,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 243,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 249,
+    "basic": {
+      "n": 5,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6003185475314503,
+      "purity": 0.20370370370370322,
+      "participation_ratio": 4.909090909090921,
+      "quantum_bound": 0.23333333333333303,
+      "max_eigenvalue": 0.23333333333333303,
+      "effective_dimension": 4.95461045197215
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.8664339756999316,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 7.645751311064591,
+      "spectral_gap": 5.291502622129181,
+      "largest_singular_value": 2.7650951721531376,
+      "trace": 10.0,
+      "frobenius_norm": 3.1622776601683795
+    }
+  },
+  {
+    "index": 254,
+    "basic": {
+      "n": 8,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.06498042989838,
+      "purity": 0.12870370370370338,
+      "participation_ratio": 7.769784172661891,
+      "quantum_bound": 0.15277777777777757,
+      "max_eigenvalue": 0.15277777777777757,
+      "effective_dimension": 7.885143583083719
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 1.2872733353256123,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 3.7142857142857144,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 12.35889894354067,
+      "spectral_gap": 8.717797887081344,
+      "largest_singular_value": 3.5155225704780606,
+      "trace": 16.0,
+      "frobenius_norm": 4.0
+    }
+  },
+  {
+    "index": 255,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 258,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 261,
+    "basic": {
+      "n": 9,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 9,
+      "avg_set_size": 4.5,
+      "min_set_size": 0,
+      "max_set_size": 9,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.1937781053751357,
+      "purity": 0.11186112370874253,
+      "participation_ratio": 8.939656306365576,
+      "quantum_bound": 0.11756613756613746,
+      "max_eigenvalue": 0.11756613756613746,
+      "effective_dimension": 8.969035142756859
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.4729377586898837,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 5.75,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 45.43559577416268,
+      "spectral_gap": 34.87119154832537,
+      "largest_singular_value": 6.740593132222318,
+      "trace": 72.0,
+      "frobenius_norm": 8.48528137423857
+    }
+  },
+  {
+    "index": 266,
+    "basic": {
+      "n": 10,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 10,
+      "avg_set_size": 5.0,
+      "min_set_size": 0,
+      "max_set_size": 10,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3025850929940446,
+      "purity": 0.09999999999999978,
+      "participation_ratio": 10.000000000000021,
+      "quantum_bound": 0.0999999999999999,
+      "max_eigenvalue": 0.0999999999999999,
+      "effective_dimension": 9.99999999999999
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.9254088348887366,
+      "max_entanglement": 3.4657359027997248,
+      "max_bond_dimension": 32,
+      "avg_bond_dimension": 10.222222222222221,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 96.00000000000001,
+      "spectral_gap": 80.0,
+      "largest_singular_value": 9.797958971132713,
+      "trace": 160.0,
+      "frobenius_norm": 12.649110640673518
+    }
+  },
+  {
+    "index": 276,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 296,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 298,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 300,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 305,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 309,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3200504343812558,
+      "purity": 0.28703703703703626,
+      "participation_ratio": 3.483870967741945,
+      "quantum_bound": 0.41666666666666613,
+      "max_eigenvalue": 0.41666666666666613,
+      "effective_dimension": 3.743610179162818
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.9241962407465937,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 6.64575131106459,
+      "spectral_gap": 5.2915026221291805,
+      "largest_singular_value": 2.577935474573518,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 321,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 323,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 329,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 340,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 345,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999933,
+      "participation_ratio": 4.000000000000011,
+      "quantum_bound": 0.24999999999999967,
+      "max_eigenvalue": 0.24999999999999967,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 3.3333333333333335,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 6.000000000000002,
+      "spectral_gap": 4.000000000000003,
+      "largest_singular_value": 2.4494897427831783,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 348,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 350,
+    "basic": {
+      "n": 8,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 8,
+      "avg_set_size": 4.0,
+      "min_set_size": 0,
+      "max_set_size": 8,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.079441541679835,
+      "purity": 0.12499999999999974,
+      "participation_ratio": 8.000000000000018,
+      "quantum_bound": 0.12499999999999988,
+      "max_eigenvalue": 0.12499999999999988,
+      "effective_dimension": 7.999999999999991
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.5843364127084463,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 6.285714285714286,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 40.000000000000014,
+      "spectral_gap": 32.000000000000014,
+      "largest_singular_value": 6.32455532033676,
+      "trace": 64.0,
+      "frobenius_norm": 8.0
+    }
+  },
+  {
+    "index": 352,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 355,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 364,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 381,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 389,
+    "basic": {
+      "n": 3,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0986122886681096,
+      "purity": 0.333333333333332,
+      "participation_ratio": 3.000000000000012,
+      "quantum_bound": 0.33333333333333265,
+      "max_eigenvalue": 0.33333333333333265,
+      "effective_dimension": 2.9999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0.6931471805599458,
+      "max_entanglement": 0.6931471805599458,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 2.9999999999999996,
+      "spectral_gap": 2.9999999999999996,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 3.0,
+      "frobenius_norm": 1.7320508075688772
+    }
+  },
+  {
+    "index": 391,
+    "basic": {
+      "n": 1,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 1,
+      "avg_set_size": 0.5,
+      "min_set_size": 0,
+      "max_set_size": 1,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9984014443252798e-15,
+      "purity": 0.999999999999996,
+      "participation_ratio": 1.000000000000004,
+      "quantum_bound": 0.999999999999998,
+      "max_eigenvalue": 0.999999999999998,
+      "effective_dimension": 1.000000000000002
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0,
+      "max_entanglement": 0,
+      "max_bond_dimension": 1,
+      "avg_bond_dimension": 1,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 1.0,
+      "spectral_gap": 0,
+      "largest_singular_value": 1.0,
+      "trace": 1.0,
+      "frobenius_norm": 1.0
+    }
+  },
+  {
+    "index": 392,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999933,
+      "participation_ratio": 4.000000000000011,
+      "quantum_bound": 0.24999999999999967,
+      "max_eigenvalue": 0.24999999999999967,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.9241962407465937,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 5.999999999999998,
+      "spectral_gap": 3.999999999999998,
+      "largest_singular_value": 2.449489742783178,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 396,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3200504343812558,
+      "purity": 0.28703703703703626,
+      "participation_ratio": 3.483870967741945,
+      "quantum_bound": 0.41666666666666613,
+      "max_eigenvalue": 0.41666666666666613,
+      "effective_dimension": 3.743610179162818
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 3.3333333333333335,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 6.64575131106459,
+      "spectral_gap": 5.2915026221291805,
+      "largest_singular_value": 2.577935474573518,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 397,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 403,
+    "basic": {
+      "n": 4,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.3862943611198901,
+      "purity": 0.24999999999999933,
+      "participation_ratio": 4.000000000000011,
+      "quantum_bound": 0.24999999999999967,
+      "max_eigenvalue": 0.24999999999999967,
+      "effective_dimension": 3.9999999999999982
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.9241962407465937,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 5.999999999999998,
+      "spectral_gap": 3.999999999999998,
+      "largest_singular_value": 2.449489742783178,
+      "trace": 8.0,
+      "frobenius_norm": 2.8284271247461903
+    }
+  },
+  {
+    "index": 404,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 405,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 407,
+    "basic": {
+      "n": 1,
+      "m": 2,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 2,
+      "num_elements": 1,
+      "avg_set_size": 0.5,
+      "min_set_size": 0,
+      "max_set_size": 1,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9984014443252798e-15,
+      "purity": 0.999999999999996,
+      "participation_ratio": 1.000000000000004,
+      "quantum_bound": 0.999999999999998,
+      "max_eigenvalue": 0.999999999999998,
+      "effective_dimension": 1.000000000000002
+    },
+    "tensor": {
+      "tensor_rank": 2,
+      "avg_entanglement": 0,
+      "max_entanglement": 0,
+      "max_bond_dimension": 1,
+      "avg_bond_dimension": 1,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 1.0,
+      "spectral_gap": 0,
+      "largest_singular_value": 1.0,
+      "trace": 1.0,
+      "frobenius_norm": 1.0
+    }
+  },
+  {
+    "index": 409,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 411,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 422,
+    "basic": {
+      "n": 4,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 4,
+      "avg_set_size": 2.0,
+      "min_set_size": 0,
+      "max_set_size": 4,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.368042454303773,
+      "purity": 0.25907029478458005,
+      "participation_ratio": 3.8599562363238578,
+      "quantum_bound": 0.2976190476190474,
+      "max_eigenvalue": 0.2976190476190474,
+      "effective_dimension": 3.927654601838504
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 0.9241962407465937,
+      "max_entanglement": 1.3862943611198904,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 11.123105625617658,
+      "spectral_gap": 8.24621125123532,
+      "largest_singular_value": 3.3351320252154424,
+      "trace": 16.0,
+      "frobenius_norm": 4.0
+    }
+  },
+  {
+    "index": 428,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 429,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 431,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 445,
+    "basic": {
+      "n": 5,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6003185475314503,
+      "purity": 0.20370370370370322,
+      "participation_ratio": 4.909090909090921,
+      "quantum_bound": 0.23333333333333303,
+      "max_eigenvalue": 0.23333333333333303,
+      "effective_dimension": 4.95461045197215
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.8664339756999316,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 7.645751311064591,
+      "spectral_gap": 5.291502622129181,
+      "largest_singular_value": 2.7650951721531376,
+      "trace": 10.0,
+      "frobenius_norm": 3.1622776601683795
+    }
+  },
+  {
+    "index": 450,
+    "basic": {
+      "n": 7,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 7,
+      "avg_set_size": 3.5,
+      "min_set_size": 0,
+      "max_set_size": 7,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.9400901156355628,
+      "purity": 0.14449951409135048,
+      "participation_ratio": 6.920438496200164,
+      "quantum_bound": 0.15612244897959165,
+      "max_eigenvalue": 0.15612244897959165,
+      "effective_dimension": 6.959378091159972
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.155245300933242,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 3.6666666666666665,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 18.92820323027551,
+      "spectral_gap": 13.856406460551023,
+      "largest_singular_value": 4.35065549432215,
+      "trace": 28.0,
+      "frobenius_norm": 5.291502622129181
+    }
+  },
+  {
+    "index": 452,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 457,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 460,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 462,
+    "basic": {
+      "n": 5,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6003185475314503,
+      "purity": 0.20370370370370322,
+      "participation_ratio": 4.909090909090921,
+      "quantum_bound": 0.23333333333333303,
+      "max_eigenvalue": 0.23333333333333303,
+      "effective_dimension": 4.95461045197215
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.8664339756999316,
+      "max_entanglement": 1.3862943611198901,
+      "max_bond_dimension": 4,
+      "avg_bond_dimension": 2.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 7.645751311064591,
+      "spectral_gap": 5.291502622129181,
+      "largest_singular_value": 2.7650951721531376,
+      "trace": 10.0,
+      "frobenius_norm": 3.1622776601683795
+    }
+  },
+  {
+    "index": 463,
+    "basic": {
+      "n": 10,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 10,
+      "avg_set_size": 5.0,
+      "min_set_size": 0,
+      "max_set_size": 10,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3025850929940446,
+      "purity": 0.09999999999999978,
+      "participation_ratio": 10.000000000000021,
+      "quantum_bound": 0.0999999999999999,
+      "max_eigenvalue": 0.0999999999999999,
+      "effective_dimension": 9.99999999999999
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.9254088348887366,
+      "max_entanglement": 3.4657359027997248,
+      "max_bond_dimension": 32,
+      "avg_bond_dimension": 10.222222222222221,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 96.00000000000001,
+      "spectral_gap": 80.0,
+      "largest_singular_value": 9.797958971132713,
+      "trace": 160.0,
+      "frobenius_norm": 12.649110640673518
+    }
+  },
+  {
+    "index": 466,
+    "basic": {
+      "n": 10,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 10,
+      "avg_set_size": 5.0,
+      "min_set_size": 0,
+      "max_set_size": 10,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3025850929940446,
+      "purity": 0.09999999999999978,
+      "participation_ratio": 10.000000000000021,
+      "quantum_bound": 0.0999999999999999,
+      "max_eigenvalue": 0.0999999999999999,
+      "effective_dimension": 9.99999999999999
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.9254088348887366,
+      "max_entanglement": 3.4657359027997248,
+      "max_bond_dimension": 32,
+      "avg_bond_dimension": 10.222222222222221,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 96.00000000000001,
+      "spectral_gap": 80.0,
+      "largest_singular_value": 9.797958971132713,
+      "trace": 160.0,
+      "frobenius_norm": 12.649110640673518
+    }
+  },
+  {
+    "index": 472,
+    "basic": {
+      "n": 6,
+      "m": 8,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 8,
+      "num_elements": 6,
+      "avg_set_size": 3.0,
+      "min_set_size": 0,
+      "max_set_size": 6,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.7917594692280543,
+      "purity": 0.16666666666666627,
+      "participation_ratio": 6.000000000000014,
+      "quantum_bound": 0.16666666666666646,
+      "max_eigenvalue": 0.16666666666666646,
+      "effective_dimension": 5.999999999999996
+    },
+    "tensor": {
+      "tensor_rank": 8,
+      "avg_entanglement": 1.2476649250079013,
+      "max_entanglement": 2.079441541679835,
+      "max_bond_dimension": 8,
+      "avg_bond_dimension": 4.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 15.999999999999993,
+      "spectral_gap": 11.999999999999993,
+      "largest_singular_value": 3.999999999999999,
+      "trace": 24.0,
+      "frobenius_norm": 4.898979485566356
+    }
+  },
+  {
+    "index": 482,
+    "basic": {
+      "n": 3,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 3,
+      "avg_set_size": 1.5,
+      "min_set_size": 0,
+      "max_set_size": 3,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.0720433435750707,
+      "purity": 0.35185185185185086,
+      "participation_ratio": 2.8421052631579027,
+      "quantum_bound": 0.4444444444444438,
+      "max_eigenvalue": 0.4444444444444438,
+      "effective_dimension": 2.921342712318153
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 4.732050807568877,
+      "spectral_gap": 3.464101615137755,
+      "largest_singular_value": 2.1753277471610746,
+      "trace": 6.0,
+      "frobenius_norm": 2.449489742783178
+    }
+  },
+  {
+    "index": 487,
+    "basic": {
+      "n": 5,
+      "m": 32,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 32,
+      "num_elements": 5,
+      "avg_set_size": 2.5,
+      "min_set_size": 0,
+      "max_set_size": 5,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 1.6094379124340996,
+      "purity": 0.19999999999999954,
+      "participation_ratio": 5.0000000000000115,
+      "quantum_bound": 0.1999999999999998,
+      "max_eigenvalue": 0.1999999999999998,
+      "effective_dimension": 4.9999999999999964
+    },
+    "tensor": {
+      "tensor_rank": 32,
+      "avg_entanglement": 1.732867951399863,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 7.5,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 48.0,
+      "spectral_gap": 40.0,
+      "largest_singular_value": 6.928203230275509,
+      "trace": 80.0,
+      "frobenius_norm": 8.94427190999916
+    }
+  },
+  {
+    "index": 495,
+    "basic": {
+      "n": 2,
+      "m": 4,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 4,
+      "num_elements": 2,
+      "avg_set_size": 1.0,
+      "min_set_size": 0,
+      "max_set_size": 2,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 0.6931471805599457,
+      "purity": 0.49999999999999867,
+      "participation_ratio": 2.0000000000000053,
+      "quantum_bound": 0.49999999999999933,
+      "max_eigenvalue": 0.49999999999999933,
+      "effective_dimension": 2.000000000000001
+    },
+    "tensor": {
+      "tensor_rank": 4,
+      "avg_entanglement": 0.6931471805599455,
+      "max_entanglement": 0.6931471805599455,
+      "max_bond_dimension": 2,
+      "avg_bond_dimension": 2.0,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 3.0,
+      "spectral_gap": 2.0,
+      "largest_singular_value": 1.7320508075688772,
+      "trace": 4.0,
+      "frobenius_norm": 2.0
+    }
+  },
+  {
+    "index": 499,
+    "basic": {
+      "n": 9,
+      "m": 16,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 16,
+      "num_elements": 9,
+      "avg_set_size": 4.5,
+      "min_set_size": 0,
+      "max_set_size": 9,
+      "density": 0.5,
+      "min_frequency": 0.5,
+      "max_frequency": 0.5,
+      "avg_frequency": 0.5
+    },
+    "frequencies": {
+      "min": 0.5,
+      "max": 0.5,
+      "avg": 0.5,
+      "all": [
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.1937781053751357,
+      "purity": 0.11186112370874253,
+      "participation_ratio": 8.939656306365576,
+      "quantum_bound": 0.11756613756613746,
+      "max_eigenvalue": 0.11756613756613746,
+      "effective_dimension": 8.969035142756859
+    },
+    "tensor": {
+      "tensor_rank": 16,
+      "avg_entanglement": 1.4729377586898837,
+      "max_entanglement": 2.772588722239781,
+      "max_bond_dimension": 16,
+      "avg_bond_dimension": 5.75,
+      "max_correlation": 0.25
+    },
+    "spectral": {
+      "largest_eigenvalue": 45.43559577416268,
+      "spectral_gap": 34.87119154832537,
+      "largest_singular_value": 6.740593132222318,
+      "trace": 72.0,
+      "frobenius_norm": 8.48528137423857
+    }
+  },
+  {
+    "index": 357,
+    "basic": {
+      "n": 10,
+      "m": 958,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 958,
+      "num_elements": 10,
+      "avg_set_size": 5.1576200417536535,
+      "min_set_size": 1,
+      "max_set_size": 10,
+      "density": 0.5157620041753653,
+      "min_frequency": 0.5083507306889353,
+      "max_frequency": 0.5302713987473904,
+      "avg_frequency": 0.5157620041753654
+    },
+    "frequencies": {
+      "min": 0.5083507306889353,
+      "max": 0.5302713987473904,
+      "avg": 0.5157620041753654,
+      "all": [
+        0.5093945720250522,
+        0.5125260960334029,
+        0.5156576200417536,
+        0.5083507306889353,
+        0.5198329853862212,
+        0.5093945720250522,
+        0.5167014613778705,
+        0.5093945720250522,
+        0.5260960334029228,
+        0.5302713987473904
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3022824349179714,
+      "purity": 0.10006083021101021,
+      "participation_ratio": 9.99392067696401,
+      "quantum_bound": 0.10434933890048742,
+      "max_eigenvalue": 0.10434933890048703,
+      "effective_dimension": 9.996973877202608
+    },
+    "tensor": {
+      "tensor_rank": 958,
+      "avg_entanglement": 3.451459551393728,
+      "max_entanglement": 6.184724239634341,
+      "max_bond_dimension": 488,
+      "avg_bond_dimension": 110.55555555555556,
+      "max_correlation": 0.24993026529696089
+    },
+    "spectral": {
+      "largest_eigenvalue": 2761.7019009237006,
+      "spectral_gap": 2509.707416329447,
+      "largest_singular_value": 52.55189721526427,
+      "trace": 4941.0,
+      "frobenius_norm": 70.2922470831599
+    }
+  },
+  {
+    "index": 41,
+    "basic": {
+      "n": 10,
+      "m": 901,
+      "is_union_closed": true,
+      "satisfies_conjecture": true
+    },
+    "statistics": {
+      "num_sets": 901,
+      "num_elements": 10,
+      "avg_set_size": 5.234184239733629,
+      "min_set_size": 1,
+      "max_set_size": 10,
+      "density": 0.5234184239733629,
+      "min_frequency": 0.5005549389567148,
+      "max_frequency": 0.5460599334073252,
+      "avg_frequency": 0.5234184239733629
+    },
+    "frequencies": {
+      "min": 0.5005549389567148,
+      "max": 0.5460599334073252,
+      "avg": 0.5234184239733629,
+      "all": [
+        0.5460599334073252,
+        0.516093229744728,
+        0.5005549389567148,
+        0.5283018867924528,
+        0.5260821309655938,
+        0.5138734739178691,
+        0.5149833518312985,
+        0.5405105438401776,
+        0.5194228634850167,
+        0.5283018867924528
+      ]
+    },
+    "quantum": {
+      "von_neumann_entropy": 2.3020856496383963,
+      "purity": 0.10009918276359167,
+      "participation_ratio": 9.990091551114267,
+      "quantum_bound": 0.10499445061043311,
+      "max_eigenvalue": 0.10499445061043271,
+      "effective_dimension": 9.995006813454221
+    },
+    "tensor": {
+      "tensor_rank": 901,
+      "avg_entanglement": 3.4497619805607225,
+      "max_entanglement": 6.1849810254550075,
+      "max_bond_dimension": 499,
+      "avg_bond_dimension": 112.11111111111111,
+      "max_correlation": 0.2499996920427543
+    },
+    "spectral": {
+      "largest_eigenvalue": 2669.186789515366,
+      "spectral_gap": 2422.3589858448363,
+      "largest_singular_value": 51.66417317169961,
+      "trace": 4716.0,
+      "frobenius_norm": 68.67313885355759
+    }
+  }
+]

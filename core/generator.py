@@ -314,7 +314,7 @@ def generate_test_suite(num_families: int = 100, max_n: int = 10,
         ], p=[0.4, 0.3, 0.1, 0.15, 0.05])
 
         if method == 'random_atoms':
-            num_atoms = np.random.randint(2, min(n, 5))
+            num_atoms = np.random.randint(2, max(3, min(n, 5) + 1))
             family = gen.random_atoms(n, num_atoms, seed=seed + i if seed else None)
         elif method == 'erdos_renyi':
             p = np.random.uniform(0.3, 0.7)

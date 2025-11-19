@@ -1,0 +1,69 @@
+{
+  "basic": {
+    "total_families": 1000,
+    "union_closed_count": 1000,
+    "satisfies_conjecture_count": 1000,
+    "counterexample_count": 0
+  },
+  "frequencies": {
+    "max_frequency": {
+      "mean": 0.7249076840974638,
+      "std": 0.15507373296109625,
+      "min": 0.5,
+      "max": 1.0,
+      "median": 0.75,
+      "q25": 0.6339902402402402,
+      "q75": 0.8181818181818182
+    },
+    "min_frequency": {
+      "mean": 0.4738245636509813,
+      "std": 0.15910169913487027,
+      "min": 0.07692307692307693,
+      "max": 1.0,
+      "median": 0.5
+    }
+  },
+  "quantum": {
+    "num_valid": 1000,
+    "von_neumann_entropy": {
+      "mean": 1.4866217191353033,
+      "std": 0.5826161102725549,
+      "min": 1.110223024625156e-15,
+      "max": 2.3025850929940446
+    },
+    "purity": {
+      "mean": 0.2860101334869065,
+      "std": 0.201050123383659
+    },
+    "quantum_bound": {
+      "mean": 0.34233096590735235,
+      "std": 0.21480480900815074,
+      "min": 0.0999999999999999,
+      "max": 1.0,
+      "above_half_count": 157
+    }
+  },
+  "tensor": {
+    "num_valid": 1000,
+    "tensor_rank": {
+      "mean": 34.231,
+      "std": 107.06493188247963,
+      "max": 958
+    },
+    "max_bond_dimension": {
+      "mean": 22.343,
+      "std": 61.760532308263016,
+      "max": 499
+    },
+    "avg_entanglement": {
+      "mean": 1.2524449736573087,
+      "std": 0.703096944287052
+    }
+  },
+  "correlations": {
+    "entropy_vs_max_freq": -0.06025415007466312,
+    "purity_vs_max_freq": 0.10689069273905946,
+    "bond_dim_vs_max_freq": -0.12827078660128968
+  },
+  "challenging_cases_count": 207
+}
