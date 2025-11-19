@@ -1,0 +1,47 @@
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+sympy>=1.12
+
+# Quantum information theory
+qutip>=4.7.0
+pennylane>=0.33.0
+
+# Tensor networks
+tensornetwork>=0.4.6
+quimb>=1.4.0
+
+# Graph Neural Networks
+torch>=2.0.0
+torch-geometric>=2.3.0
+dgl>=1.1.0
+
+# Machine learning and interpretability
+scikit-learn>=1.3.0
+shap>=0.42.0
+lime>=0.2.0.1
+
+# Tropical geometry (symbolic)
+# (most via sympy)
+
+# Visualization and analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+networkx>=3.1
+plotly>=5.14.0
+
+# Data handling
+pandas>=2.0.0
+h5py>=3.8.0
+
+# Jupyter for experiments
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Testing and benchmarking
+pytest>=7.3.0
+hypothesis>=6.75.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
