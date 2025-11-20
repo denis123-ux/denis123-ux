@@ -1,0 +1,4 @@
+dimension,signature,eigenvalues,n_positive,n_negative,is_lorentzian,is_euclidean
+2,"(+,+)",[1.56638664e-01 7.20709454e-05],2,0,False,True
+3,"(+,+,+)",[1.56635479e-01 7.51696771e-05 3.15848865e-08],3,0,False,True
+4,"(+,+,+,0)",[1.56636531e-01 7.41678647e-05 8.61610712e-09 3.38133302e-11],3,0,False,False
