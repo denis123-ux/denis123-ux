@@ -1,0 +1,4 @@
+dimension,signature,eigenvalues,n_positive,n_negative,is_lorentzian,is_euclidean
+2,"(0,0)",[0. 0.],0,0,False,False
+3,"(0,0,0)",[0. 0. 0.],0,0,False,False
+4,"(0,0,0,0)",[0. 0. 0. 0.],0,0,False,False
