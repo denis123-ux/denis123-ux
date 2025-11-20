@@ -1,0 +1,9 @@
+{
+  "hypothesis": "Time emerges as the direction of maximal entanglement growth",
+  "prediction": "One spatial direction shows dS/dt significantly > others; that direction = time",
+  "method": "Hamiltonian time evolution + entanglement entropy measurement",
+  "falsifiability": "If all directions have similar dS/dt \u2192 time does NOT emerge from entanglement",
+  "timestamp": "2025-11-20T21:39:57.687290",
+  "session_id": "phase0_time_emergence_20251120_213957",
+  "hash": "836a734a23abfe34991d250e1b24e65693d97d44be13745f82d43d0e45a5f1e5"
+}
