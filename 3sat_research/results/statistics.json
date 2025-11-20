@@ -1,0 +1,32 @@
+[
+  {
+    "discriminator":"lm_mean_depth",
+    "mean_sat":5.22,
+    "mean_unsat":5.996,
+    "std_sat":0.5188876993,
+    "std_unsat":1.0333892458,
+    "cohens_d":0.9490490081,
+    "p_value":0.0479603362,
+    "verdict":"LARGE"
+  },
+  {
+    "discriminator":"fractional_derivative_1.5",
+    "mean_sat":0.7486361827,
+    "mean_unsat":0.0084707199,
+    "std_sat":1.6276415763,
+    "std_unsat":0.0002338373,
+    "cohens_d":-0.6431096627,
+    "p_value":0.1675830837,
+    "verdict":"MEDIUM"
+  },
+  {
+    "discriminator":"holonomy",
+    "mean_sat":0.0093253625,
+    "mean_unsat":0.0095416139,
+    "std_sat":0.0025410306,
+    "std_unsat":0.0011809329,
+    "cohens_d":0.1091438758,
+    "p_value":0.8099497687,
+    "verdict":"FAIL (negligible)"
+  }
+]
