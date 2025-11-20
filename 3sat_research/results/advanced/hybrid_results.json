@@ -1,0 +1,17 @@
+{
+  "discriminators": [
+    "lm_mean_depth",
+    "fractional_derivative_1.5",
+    "holonomy"
+  ],
+  "weights": [
+    0.7680087013612767,
+    5.998551618983489e-07,
+    0.2319906987835613
+  ],
+  "cohens_d": 0.9005031457767827,
+  "ci_lower": 0.6584617678230124,
+  "ci_upper": 1.169041428986979,
+  "p_value": 1.3127557261355897e-09,
+  "verdict": "\u26a1 LARGE EFFECT! Good discriminator (d>0.8)"
+}

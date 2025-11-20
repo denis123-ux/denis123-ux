@@ -17,6 +17,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
+from typing import Tuple
 from advanced_discriminators import (
     HybridDiscriminator, AlphaOptimizer, bootstrap_cohen_d
 )
