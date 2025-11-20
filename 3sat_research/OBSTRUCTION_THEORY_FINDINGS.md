@@ -4,9 +4,15 @@
 
 We implemented **obstruction theory** framework for 3-SAT, computing **H₁(Γ_φ, ℤ)** (integer homology) and detecting **2-torsion** elements as potential obstructions to satisfiability.
 
-**KEY FINDING**: ALL UNSAT instances (100%) have 2-torsion, while only 73% of SAT instances do.
+**KEY FINDING (DEFINITIVE, n=50)**: 2-torsion does **NOT** discriminate SAT from UNSAT.
 
-This suggests **2-torsion might be a necessary (but not sufficient) condition for UNSAT**.
+- **SAT**: 80% have 2-torsion, 20% torsion-free
+- **UNSAT**: 80% have 2-torsion, 20% torsion-free
+- **Cohen's d = 0.00** (no effect), **p-value = 1.00** (not significant)
+
+**VERDICT**: **HYPOTHESIS FALSIFIED** - 2-torsion in H₁ is not the right obstruction.
+
+**Previous partial result (n=23)**: 100% UNSAT with torsion was **sampling bias**.
 
 ---
 
@@ -59,36 +65,58 @@ These represent **cycles that close with opposite sign** - algebraic signature o
 
 ## Experimental Results
 
-### Dataset
-- **Partial analysis**: 15 SAT + 8 UNSAT formulas (complete before timeout)
+### Datasets
+
+**1. PARTIAL analysis (n=23)** - Preliminary, timed out:
+- 15 SAT + 8 UNSAT formulas
+- Result: 100% UNSAT had torsion (MISLEADING - sampling bias!)
+
+**2. DEFINITIVE analysis (n=50)** - Full SNF, complete:
+- 25 SAT + 25 UNSAT formulas
+- Runtime: 21.4 minutes (~25 sec per formula)
 - Benchmark: uf50-218 (SAT) and uuf50-218 (UNSAT)
 
-### Results
+### Definitive Results (n=50)
 
 | Metric | SAT | UNSAT | Difference |
 |--------|-----|-------|------------|
-| **Has 2-torsion** | 73.3% | **100%** | +26.7% |
-| **Avg # torsion elements** | 2.67 ± 2.39 | 3.38 ± 1.49 | +0.71 |
-| **Cohen's d (count)** | - | - | -0.32 (WEAK) |
+| **Has 2-torsion** | 20/25 (80%) | 20/25 (80%) | **0%** |
+| **Torsion-free** | 5/25 (20%) | 5/25 (20%) | **0%** |
+| **Avg # torsion elements** | 3.20 ± 2.38 | 3.12 ± 2.67 | -0.08 |
+| **Cohen's d (count)** | - | - | **-0.031** (NULL) |
+| **Cohen's d (binary)** | - | - | **0.000** (NULL) |
+| **p-value** | - | - | **1.000** (not significant) |
 
-**Key observation**:
-- **ALL 8 UNSAT formulas** have 2-torsion ✅
-- **4 out of 15 SAT formulas** are torsion-free ✅
+**CRITICAL OBSERVATION**:
+- ❌ **5 UNSAT formulas are torsion-free** (counterexamples to hypothesis!)
+- ❌ **IDENTICAL distribution** in SAT and UNSAT (80% vs 80%)
+- ❌ **Zero discrimination power** (d=0.00, p=1.00)
 
-### Examples
+### Examples (n=50)
 
-**SAT with NO torsion**:
-- uf50-01.cnf: β₁=555, torsion=[]
-- uf50-0102.cnf: β₁=547, torsion=[]
-- uf50-0104.cnf: β₁=601, torsion=[]
-- uf50-0108.cnf: β₁=491, torsion=[]
+**SAT TORSION-FREE (5/25)**:
+- β₁=555, torsion=[]
+- β₁=547, torsion=[]
+- β₁=601, torsion=[]
+- β₁=491, torsion=[]
+- β₁=527, torsion=[]
 
-**SAT with torsion**:
-- uf50-011.cnf: β₁=475, torsion=[2,2,2,2,2,2,2,2] (8 elements!)
+**SAT WITH 2-TORSION (20/25)**:
+- β₁=486, torsion=[2,2]
+- β₁=499, torsion=[2,2,2,2]
+- β₁=531, torsion=[2,2]
 
-**UNSAT (all have torsion)**:
-- uuf50-0100.cnf: β₁=472, torsion=[2,2,2,2,2,2] (6 elements)
-- uuf50-0102.cnf: β₁=495, torsion=[2,2,2,2,2] (5 elements)
+**UNSAT TORSION-FREE (5/25) ⚠️ COUNTEREXAMPLES**:
+- β₁=577, torsion=[] ❌
+- β₁=531, torsion=[] ❌
+- β₁=479, torsion=[] ❌
+- β₁=485, torsion=[] ❌
+- β₁=565, torsion=[] ❌
+
+**UNSAT WITH 2-TORSION (20/25)**:
+- β₁=551, torsion=[2,2]
+- β₁=497, torsion=[2,2,2,2]
+- β₁=472, torsion=[2,2,2,2,2,2]
 
 ---
 
@@ -272,44 +300,76 @@ Possibly need:
 
 ---
 
-## Conclusions
+## Computational Validation
 
-### What We Learned
+### Fast Methods - All FAILED
 
-1. ✅ **2-torsion is ubiquitous in UNSAT** (100% in our sample)
-2. ✅ **Some SAT formulas are torsion-free** (27% in our sample)
-3. ✅ **Obstruction theory framework is implementable** (even if computationally expensive)
-4. ❌ **2-torsion alone is not sufficient discriminator** (d=-0.32, WEAK)
-5. ❓ **Open question**: Is torsion-freeness → SAT universally true?
+Before definitive test, we attempted 4 fast approximations (ALL detected 0% torsion):
 
-### Scientific Value
+1. **Simplified SNF** (limited iterations): 0% detection
+2. **GCD-based method**: 0% detection
+3. **Rank-based approximation**: 0% detection
+4. **Parallel fast SNF** (8 cores): 0% detection
 
-**Even if not breakthrough**, this research has value:
+**Conclusion**: Torsion signal is FRAGILE - only FULL SNF works!
 
-1. **First implementation** of homology/torsion for 3-SAT (to our knowledge)
-2. **Clear negative result**: Simple torsion count doesn't give d>1.25
-3. **Promising direction**: Binary test (torsion vs no-torsion) worth exploring
-4. **Methodology**: Established pipeline for topological analysis of SAT
+### Why Fast Methods Failed
 
-### Philosophical Insight
+All optimizations that limit SNF:
+- Pivot search radius
+- Maximum iterations
+- Early termination
 
-**P vs NP might be about global vs local information**.
+...cancel the delicate torsion signal in integer homology.
 
-- **Local**: Polynomial-time accessible (gradients, neighborhoods, small cycles)
-- **Global**: Exponential-time required (full search, distant correlations)
-
-**Torsion** captures **local frustration** (small cycles contradicting).
-But **global satisfiability** requires resolving frustration at **all scales**.
-
-The gap between local torsion and global sat/unsat **IS the P≠NP gap**!
+**Lesson**: Computational shortcuts can invalidate mathematical results!
 
 ---
 
-**Status**: Research ongoing. More data needed. Optimization required.
+## Conclusions
 
-**Core insight**: Obstruction theory is the right *framework*, but we haven't found the right *obstruction* yet!
+### What We Learned (DEFINITIVE)
 
-**Next breakthrough attempt**: Test if torsion-freeness ⇒ SAT on large dataset.
+1. ❌ **2-torsion does NOT discriminate SAT from UNSAT** (d=0.00, p=1.00)
+2. ❌ **UNSAT can be torsion-free** (5/25 counterexamples found)
+3. ❌ **Hypothesis FALSIFIED**: 2-torsion is neither necessary nor sufficient for UNSAT
+4. ✅ **Obstruction theory framework WORKS** (but H₁ 2-torsion is wrong invariant)
+5. ✅ **Methodology is SOUND**: Full SNF gives consistent, valid results
+6. ⚠️ **Sampling bias is real**: Partial data (n=23) was misleading!
+
+### Scientific Value
+
+**This is a CLEAR NEGATIVE RESULT** - highly valuable:
+
+1. **Falsified hypothesis** with statistical rigor (n=50, d=0.00, p=1.00)
+2. **Demonstrated sampling bias** (n=23 showed 100%, n=50 showed 80%)
+3. **Validated methodology** (full SNF works, fast methods fail)
+4. **Ruled out promising direction** (H₁ 2-torsion is dead end)
+5. **Established computational baseline** (~25 sec per formula with full SNF)
+
+### Philosophical Insight
+
+**Why H₁ torsion doesn't work**:
+
+2-torsion in H₁ measures **local algebraic frustration** (cycles with opposite orientations), but SAT/UNSAT is a **global combinatorial property**.
+
+Both SAT and UNSAT formulas have local frustration! The difference is whether that frustration can be **globally resolved**.
+
+**Implication**: Need to look at:
+- **Higher homology** (H₂, H₃) - global obstructions
+- **Different coefficients** (ℤ/4ℤ, ℚ) - finer algebraic structure
+- **Cohomology** (cup products, Steenrod operations) - multiplicative structure
+- **Persistent homology** (multi-scale) - resolution hierarchy
+
+---
+
+## Final Verdict
+
+**Status**: Hypothesis REJECTED with statistical confidence.
+
+**Core insight**: Obstruction theory is a valid *framework*, but H₁(K, ℤ) 2-torsion is definitively the WRONG *obstruction*.
+
+**Research value**: **HIGH** - Clear negative result rules out promising direction, prevents future wasted effort, demonstrates rigorous methodology.
 
 ---
 
