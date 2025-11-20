@@ -60,3 +60,10 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+# 3-SAT Research - Large files
+3sat_research/benchmarks/
+3sat_research/benchmarks/*.tar.gz
+3sat_research/benchmarks/**/*.cnf
+*.log
+__pycache__/
+*.pyc
